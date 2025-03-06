@@ -6,10 +6,7 @@
     <title>Practica git</title>
 </head>
 <body>
-    <p>
-        <p>Hola</p>
-        <p></p>
-    </p>
+    <p>Mi rama</p>
     
 </body>
 </html>
